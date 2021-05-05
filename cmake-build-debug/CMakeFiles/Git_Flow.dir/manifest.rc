@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Tiago/Documents/GitHub/Git_Flow/cmake-build-debug/CMakeFiles/Git_Flow.dir/embed.manifest"
